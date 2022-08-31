@@ -1,0 +1,2 @@
+#!/bion/bash
+ls -l -n -la
