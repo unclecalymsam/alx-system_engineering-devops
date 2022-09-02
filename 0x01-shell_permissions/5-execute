@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 7000
+chmod u+x
