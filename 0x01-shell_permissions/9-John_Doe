@@ -1,2 +1,2 @@
 #!/bin/bash
-cmod u=rwx, g=rx, o=wx
+chmod 753 hello
