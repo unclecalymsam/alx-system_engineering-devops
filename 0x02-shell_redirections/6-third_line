@@ -1,2 +1,1 @@
 #!/bin/bash
-awk 'NR==3 {print;exit}' iacta
