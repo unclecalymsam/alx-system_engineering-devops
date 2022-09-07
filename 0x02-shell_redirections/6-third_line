@@ -1,2 +1,2 @@
 #!/bin/bash
-sed '3!d;q' iacta 
+awk 'NR==3 {print;exit}' iacta
